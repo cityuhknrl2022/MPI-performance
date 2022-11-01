@@ -17,4 +17,12 @@ Download testing data [here](https://drive.google.com/file/d/1e2AVnBfvrup_QM8XL1
 
 Download testing model [here](https://drive.google.com/file/d/1N6s_Hnt7wakEkXYuiTnRbrD8HhT6Nhb7/view?usp=share_link "here").
 
+# Note
 
+Suggestions: 
+
+1.Testing the 'jpynb' codes on Google Colabs.
+
+2.This version is for testing on the fair test dataset(1:1).
+
+3.Pay attention to the parameter settings (e.g., dsitribution ratio) to obtain the accuate performance.
