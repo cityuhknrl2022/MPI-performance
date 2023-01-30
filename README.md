@@ -15,11 +15,11 @@ Python 2.7.15.
 
 Download testing data (OCT) [here](https://drive.google.com/file/d/1y55qdo4byyGsKRTyKcJxZSqDCzyGloXD/view?usp=share_link).
 
-Download testing model [here](https://drive.google.com/file/d/1RLOMIVEqHM3d5uV1ycSfbGFHVK7pP_dC/view?usp=share_link).
+Download testing model (OCT) [here](https://drive.google.com/file/d/1RLOMIVEqHM3d5uV1ycSfbGFHVK7pP_dC/view?usp=share_link).
 
-Download testing important distribution points [here](https://drive.google.com/file/d/1ra2a7BoLalXmVdNMSsgEKic6KpYoTcbS/view?usp=share_link).
+Download testing important distribution points (OCT) [here](https://drive.google.com/file/d/1ra2a7BoLalXmVdNMSsgEKic6KpYoTcbS/view?usp=share_link).
 
-Download testing code [here](https://drive.google.com/file/d/1jruwJV1v4WPYOpNjYLMlpdIcH8I6kZ8s/view?usp=share_link).
+Download testing code (OCT) [here](https://drive.google.com/file/d/1jruwJV1v4WPYOpNjYLMlpdIcH8I6kZ8s/view?usp=share_link).
 
 
 
