@@ -15,7 +15,7 @@ Python 2.7.15.
 
 Download testing data [here](https://drive.google.com/file/d/1e2AVnBfvrup_QM8XL1TYb1vXSXafjhQy/view?usp=share_link "here").
 
-Download testing model [here]().
+Download testing model [here](https://drive.google.com/file/d/1RLOMIVEqHM3d5uV1ycSfbGFHVK7pP_dC/view?usp=share_link).
 
 # Note
 
